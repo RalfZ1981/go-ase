@@ -32,6 +32,8 @@ installation path.
 
 The headers are provided at `cgo/includes`.
 
+As the package uses cgo we also need the GNU Compiler Collection (gcc) in place.
+
 ## Download and Usage
 
 The packages in this repo can be `go get` and imported as usual.
